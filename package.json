@@ -24,7 +24,7 @@
     "knex": "^0.20.3",
     "knub-command-manager": "^6.1.0",
     "mime": "^2.4.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mv": "^2.1.1",
     "path": "^0.12.7",
     "public-ip": "^4.0.0",
